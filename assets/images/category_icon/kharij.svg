@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_203" data-name="Group 203" transform="translate(-68 -301)">
+    <path id="Path_19" data-name="Path 19" d="M30,0A30,30,0,1,1,0,30,30,30,0,0,1,30,0Z" transform="translate(68 301)" fill="#dee3eb"/>
+    <g id="Iconly_Bold_Document" data-name="Iconly/Bold/Document" transform="translate(82 314)">
+      <g id="Document" transform="translate(3 2)">
+        <path id="Path_4" data-name="Path 4" d="M19.787,0C24.42,0,27,2.67,27,7.245h0v15.5C27,27.39,24.42,30,19.787,30H7.215C2.655,30,0,27.39,0,22.74H0V7.245C0,2.67,2.655,0,7.215,0H19.787ZM7.62,20.61a1.177,1.177,0,0,0-1.125.555,1.192,1.192,0,0,0,0,1.26,1.165,1.165,0,0,0,1.125.54H19.38a1.185,1.185,0,0,0,0-2.355H7.62Zm11.76-6.842H7.62a1.171,1.171,0,0,0,0,2.342H19.38a1.171,1.171,0,0,0,0-2.342ZM12.1,6.975H7.62V6.99a1.17,1.17,0,1,0,0,2.34H12.1a1.178,1.178,0,0,0,0-2.355Z" fill="#142d5d"/>
+      </g>
+    </g>
+  </g>
+</svg>
